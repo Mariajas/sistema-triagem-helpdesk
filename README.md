@@ -20,3 +20,14 @@ Este é um script automatizado em Python desenvolvido para otimizar o fluxo de a
    python main.py
    ```
 4. Siga as instruções na tela inserindo o seu nome e a descrição do chamado.
+* **Manipulação de Strings**: Tratamento de dados com `.lower()` para evitar erros de digitação.
+* **Linguagem Principal**: Python 3.x
+
+## 🔧 Como Executar o Script
+1. Certifique-se de possuir o Python instalado no seu computador.
+2. Baixe o arquivo `main.py` deste repositório.
+3. Abra o terminal na pasta do arquivo e execute o comando:
+   ```bash
+   python main.py
+   ```
+4. Siga as instruções na tela inserindo o seu nome e a descrição do chamado.
